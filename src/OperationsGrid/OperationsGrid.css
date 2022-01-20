@@ -1,0 +1,6 @@
+.operations-grid {
+    display: grid;
+    flex-direction: 1fr;
+    grid-gap: 1px;
+    margin-left: 1px;
+}

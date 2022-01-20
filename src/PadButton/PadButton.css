@@ -1,0 +1,20 @@
+.pad-button {
+    font-family: inherit;
+    font-size: inherit;
+    width: 65px;
+    height: 65px;
+    border: 0;
+    background-color: none;
+}
+
+.pad-button:hover {
+    opacity: 0.8;
+}
+
+.operation-button {
+    background-color: #42A5F5;
+}
+
+.number-button {
+    background-color: #80DEEA;
+}

@@ -1,0 +1,17 @@
+.numbers-grid {
+    display: flex;
+    flex-direction: column;
+}
+
+.numbers-grid .one-to-nine-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 1px;
+}
+
+.bottom-grid { 
+    display: grid;
+    margin-top: 1px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 1px;
+}
